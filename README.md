@@ -20,3 +20,5 @@ Comments about the code are included in the code.
 
 ## SUMMARY
 This project allowed me to learn more about javascript, and I was able to construct a completely functional Random Quote Generator as a result. Using HTML, CSS, and JavaScript, I created a Random Quote Generator from the ground up. I learned how to synchronise HTML, CSS, and Java. In javascript, I learned about variables, arrays, math functions, and other concepts. Recognizing the presence of classes and IDs, as well as referencing them in JavaScript code to create interactive webpages. In contrast to static web pages that do not respond to user requests, this allowed the page to change slightly or completely when a user makes an action.It detected a click on the quote button so that we can fetch a new random quote and display it to the user.
+
+this is jatin Dhiman
